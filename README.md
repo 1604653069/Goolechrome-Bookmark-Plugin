@@ -48,9 +48,9 @@
 
 ```bash
 # 克隆项目
-📥 git clone <repository-url>
+📥 git clone https://github.com/1604653069/Goolechrome-Bookmark-Plugin.git
 
-📂 cd google-bookmark-plugin
+📂 cd Goolechrome-Bookmark-Plugin
 
 # 安装依赖
 🔧 npm install
