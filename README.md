@@ -330,3 +330,7 @@ generateIcons().catch(console.error);
 ## 许可证
 
 📜 MIT
+
+## 截图
+
+![](https://raw.githubusercontent.com/1604653069/Goolechrome-Bookmark-Plugin/main/火柴截图20250318110136338.jpg)
